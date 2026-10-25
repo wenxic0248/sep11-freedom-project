@@ -7,7 +7,8 @@
 ---
 
 ### 10/25/26
-* Text
+* The place where you will code is in a repl
+* (the link that i used for this)[https://www.youtube.com/watch?v=4OaHB0JbJDI]
 
 ### X/X/XX:
 * Text
