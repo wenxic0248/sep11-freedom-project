@@ -1,12 +1,12 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: Kaboom
 
-## Project: **X**
+## Project: Platformer to solve math equations 
 
 ---
 
-### X/X/XX:
+### 10/25/26
 * Text
 
 ### X/X/XX:
