@@ -11,8 +11,9 @@
 * you can make a sprite show up using the code add([ sprite('sprite'sname') )]
 * you could scale them by putting scale(example:0.5,1,2) just 1 line below the name
 * you could also set it's pos using pos(x value, y value)
-* the image below is code that would plan out the level / how your world will look to make the floor of your game for example the xxxxxx are where your telling the computer u want the sprite to be for example grass blocks
+* the image below is code that would plan out the level / how your world will look to make the floor of your game for example the xxxxxx are where your telling the computer u want the sprite to be for example grass blocks ( i didn't want to write all of this code)
 * <img width="297" height="271" alt="image" src="https://github.com/user-attachments/assets/c8caf8b6-b8cf-4ae4-952e-21e6ab52510d" />
+* using body() inside of the sprite's code will give it gravity making it no longer float mid air for no reason
 
   
 * [the link that i used for this](https://www.youtube.com/watch?v=4OaHB0JbJDI)
