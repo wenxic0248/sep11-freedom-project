@@ -18,9 +18,17 @@
 * [kaboom website](https://kaboomjs.com/)
 * I just messed around with the code like the movement speed or jump power making the player make very slow or way too fast and also make the sprite jump a insane height and you could just mess around with the values to see how things work with those values was a lot of fun
 
-### X/X/XX:
-* Text
-
+### 11/9/26
+* learning more kaboom
+* today I learned how to make movement in kaboom using the [kaboom website](https://kaboomjs.com/)
+* in the kaboom website there is a lot of things you can learn the basics like how to make movement and etc
+* A code to make movement would be like to make it make to the sprite go up is this
+ onKeyDown("up", () => {
+	player.move(0, -SPEED)
+})
+* I wonder why the Speed had a negative sign in front of it so I just deleted it and the sprite went down instead of up so they coded the down but just made it opposite of it.
+* we could also make the speed Constant by making it const SPEED = 320 if we change it to a lower name it would be slower and higher would be faster speed
+* 
 
 <!-- 
 * Links you used today (websites, videos, etc)
