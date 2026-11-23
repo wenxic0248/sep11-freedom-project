@@ -29,7 +29,12 @@
 * I wonder why the Speed had a negative sign in front of it so I just deleted it and the sprite went down instead of up so they coded the down but just made it opposite of it.
 * we could also make the speed Constant by making it const SPEED = 320 if we change it to a lower name it would be slower and higher would be faster speed
 * 
-
+### 11/22/2026
+* today i made my sprites for my game
+* started setting up my files and everything
+* im try to start coding in there soon
+* i'm still learning on how to make movement and how to load the sprite into my code (soon)
+  
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
